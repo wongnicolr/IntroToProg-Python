@@ -1,0 +1,5 @@
+homework,1
+laundry,3
+work out,2
+sing,5
+eat,4
